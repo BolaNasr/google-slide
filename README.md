@@ -1,4 +1,6 @@
 ```
-!!!slideshow
-hello
+!!!gslides
+name ="test"
+content ="bola"
+
 ```
